@@ -13,7 +13,7 @@ This is a simple Hangman game implemented in Go. The game allows players to gues
 ## Installation
 ### Clone the Repository
 ```sh
-git clone https://github.com/mlhirth/HangmanGo.git
+git clone https://github.com/MLHirth/Hangman.git
 cd HangmanGo
 ```
 
