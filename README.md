@@ -14,17 +14,17 @@ This is a simple Hangman game implemented in Go. The game allows players to gues
 ### Clone the Repository
 ```sh
 git clone https://github.com/MLHirth/Hangman.git
-cd HangmanGo
+cd Hangman
 ```
 
 ### Build the Executable
 ```sh
-go build -o hangman
+go build Hangman.go
 ```
 
 ### Run the Game
 ```sh
-./hangman
+./Hangman
 ```
 
 ## How to Play
